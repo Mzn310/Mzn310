@@ -205,3 +205,7 @@ https://www.linkedin.com/in/mazen-baccouch-352116372/
 
 Email:
 mazen.baccouch@enicar.ucar.tn
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mzn310&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+</p>
