@@ -13,16 +13,16 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-- 🔭 Currently working on **AI-powered applications** (RAG systems, CNN image classification, recommendation systems)
-- 🌱 Deepening my skills in **MLOps, Microservices & Cloud Architecture**
-- 💡 Passionate about combining **Web Development** with **Machine Learning**
-- 📫 Reach me at: **mazen.baccouch@enicar.ucar.tn**
+-  Currently working on **AI-powered applications** (RAG systems, CNN image classification, recommendation systems)
+-  Deepening my skills in **MLOps, Microservices & Cloud Architecture**
+-  Passionate about combining **Web Development** with **Machine Learning**
+-  Reach me at: **mazen.baccouch@enicar.ucar.tn**
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### 🌐 Web Development
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -53,7 +53,7 @@
 
 ---
 
-## 💼 Featured Projects
+##  Featured Projects
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
@@ -64,7 +64,7 @@
 
 ---
 
-## 📊 GitHub Stats
+[##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mzn310&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
@@ -72,9 +72,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mzn310&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Mzn310&theme=tokyonight&hide_border=true?user=Mzn310&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
-
+](https://streak-stats.demolab.com/?user=Mzn310&theme=tokyonight&hide_border=true)
 ---
 
 <p align="center">
