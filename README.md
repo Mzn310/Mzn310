@@ -1,18 +1,19 @@
 <h1 align="center">Hi, I'm Mazen Baccouch</h1>
 
 <h3 align="center">
-Computer Engineering Student | Full Stack Developer | AI & Cloud Enthusiast
+Computer Engineering Student | Full Stack Developer | AI & Cloud Engineer
 </h3>
 
 <p align="center">
 Third-year Computer Engineering student at <b>ENICarthage</b>, Tunisia 🇹🇳<br>
-Seeking an <b>End-of-Study Internship (PFE)</b> in Full Stack Development, Artificial Intelligence, and Cloud Engineering.
+Seeking an <b>End-of-Study Internship (PFE)</b> in Full Stack Development, Artificial Intelligence, DevOps, and Cloud Engineering.
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/mazen-baccouch">
+  <a href="https://www.linkedin.com/in/mazen-baccouch-352116372/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
   <a href="mailto:mazen.baccouch@enicar.ucar.tn">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -20,27 +21,30 @@ Seeking an <b>End-of-Study Internship (PFE)</b> in Full Stack Development, Artif
 
 ---
 
-## Professional Summary
+# Professional Summary
 
-Computer Engineering student passionate about building scalable software solutions combining Full Stack Development, Artificial Intelligence, and Cloud technologies.
+Computer Engineering student passionate about designing scalable software solutions combining Full Stack Development, Artificial Intelligence, and Cloud technologies.
 
-Interested in:
-- AI-powered applications and Generative AI
-- Machine Learning deployment and MLOps practices
-- Microservices and distributed systems
-- Cloud-native architectures and DevOps automation
+My interests include:
+
+- Artificial Intelligence and Generative AI applications
+- Machine Learning deployment and MLOps
+- Microservices architecture
+- Cloud-native applications
+- DevOps automation and CI/CD pipelines
 
 Currently improving my skills in:
-- Cloud platforms
-- CI/CD pipelines
+
+- Cloud platforms (Azure, AWS)
 - Container orchestration
+- Infrastructure as Code
 - Machine Learning Operations
 
 ---
 
-## Technical Skills
+# Technical Skills
 
-### Programming Languages
+## Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -50,7 +54,7 @@ Currently improving my skills in:
 
 ---
 
-### Full Stack Development
+## Full Stack Development
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
@@ -62,7 +66,7 @@ Currently improving my skills in:
 
 ---
 
-### Artificial Intelligence & Machine Learning
+## Artificial Intelligence & Machine Learning
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
@@ -70,35 +74,39 @@ Currently improving my skills in:
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 
-Areas:
+Knowledge areas:
+
 - Computer Vision
 - Deep Learning
 - Natural Language Processing
 - RAG Systems
 - Recommendation Systems
+- Model Deployment
 
 ---
 
-### DevOps & Cloud Engineering
+## DevOps & Cloud Engineering
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
 
 Skills:
+
 - CI/CD Automation
-- Containerization
-- Cloud Deployment
+- Docker Containerization
+- Kubernetes Deployment
+- Azure Cloud Services
 - Infrastructure as Code
 - Monitoring and Logging
 
 ---
 
-### Databases
+## Databases
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
@@ -107,78 +115,93 @@ Skills:
 
 ---
 
-## Featured Projects
+# Featured Projects
 
-### Plant Disease Classification Platform
+## Plant Disease Classification Platform
 
-Deep Learning application for plant disease detection.
+Deep Learning application for plant disease recognition.
 
-- Trained CNN model on PlantVillage dataset
-- Classified 38 disease categories
-- Achieved 86.9% accuracy
-- Developed Flask REST API
+Features:
+- CNN model trained on PlantVillage dataset
+- Classification of 38 disease categories
+- 86.9% accuracy achieved
+- Flask REST API
 - Dockerized deployment
 
 Technologies:
-Python, TensorFlow, Flask, Docker
 
+`Python` `TensorFlow` `Flask` `Docker`
 
-### Intelligent CV Generator
+---
 
-AI-powered platform for CV generation and career recommendations.
+## Intelligent CV Generator
+
+AI-powered platform for resume generation and career recommendations.
 
 Features:
 - RAG-based chatbot
 - Resume analysis
-- Recommendation system
+- Recommendation engine
 - Microservices architecture
 
 Technologies:
-React, Spring Boot, Python, NLP, Vector Database
 
+`React` `Spring Boot` `Python` `NLP` `Vector Database`
 
-### Fashion-MNIST Image Classification
+---
+
+## Fashion-MNIST Image Classification
 
 Deep Learning image classification project.
 
-- Built a CNN architecture
-- Trained on 60,000 images
-- Achieved 89.7% test accuracy
+Features:
+- CNN architecture implementation
+- Training on 60,000 images
+- 89.7% test accuracy
 
 Technologies:
-Python, TensorFlow, Keras
 
+`Python` `TensorFlow` `Keras`
 
-### Hotel Booking Platform
+---
+
+## Hotel Booking Platform
 
 Full Stack web application.
 
 Features:
-- Authentication system
+- JWT authentication
 - User management
 - REST API architecture
 
 Technologies:
-MongoDB, Express.js, React, Node.js
+
+`MongoDB` `Express.js` `React` `Node.js`
 
 ---
 
-## GitHub Statistics
+# GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Mzn310&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mzn310&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Mzn310&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mzn310&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
 </p>
 
 <p align="center">
+
 <img src="https://streak-stats.demolab.com/?user=Mzn310&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## Contact
+# Contact
 
-LinkedIn: https://linkedin.com/in/mazen-baccouch
+LinkedIn:
+https://www.linkedin.com/in/mazen-baccouch-352116372/
 
-Email: mazen.baccouch@enicar.ucar.tn
-
+Email:
+mazen.baccouch@enicar.ucar.tn
