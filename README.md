@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mazen Baccouch</h1>
 
 <h3 align="center">
-Computer Engineering Student | Full Stack Developer | AI & Cloud Engineer
+Computer Engineering Student | Full Stack Developer | AI & Cloud 
 </h3>
 
 <p align="center">
