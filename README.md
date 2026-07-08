@@ -115,70 +115,7 @@ Skills:
 
 ---
 
-# Featured Projects
 
-## Plant Disease Classification Platform
-
-Deep Learning application for plant disease recognition.
-
-Features:
-- CNN model trained on PlantVillage dataset
-- Classification of 38 disease categories
-- 86.9% accuracy achieved
-- Flask REST API
-- Dockerized deployment
-
-Technologies:
-
-`Python` `TensorFlow` `Flask` `Docker`
-
----
-
-## Intelligent CV Generator
-
-AI-powered platform for resume generation and career recommendations.
-
-Features:
-- RAG-based chatbot
-- Resume analysis
-- Recommendation engine
-- Microservices architecture
-
-Technologies:
-
-`React` `Spring Boot` `Python` `NLP` `Vector Database`
-
----
-
-## Fashion-MNIST Image Classification
-
-Deep Learning image classification project.
-
-Features:
-- CNN architecture implementation
-- Training on 60,000 images
-- 89.7% test accuracy
-
-Technologies:
-
-`Python` `TensorFlow` `Keras`
-
----
-
-## Hotel Booking Platform
-
-Full Stack web application.
-
-Features:
-- JWT authentication
-- User management
-- REST API architecture
-
-Technologies:
-
-`MongoDB` `Express.js` `React` `Node.js`
-
----
 
 # GitHub Statistics
 
@@ -198,13 +135,6 @@ Technologies:
 
 ---
 
-# Contact
-
-LinkedIn:
-https://www.linkedin.com/in/mazen-baccouch-352116372/
-
-Email:
-mazen.baccouch@enicar.ucar.tn
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mzn310&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
